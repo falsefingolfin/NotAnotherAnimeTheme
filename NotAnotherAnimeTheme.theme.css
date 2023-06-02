@@ -55,12 +55,12 @@
     Triple Column:  184px
     Quad Column:    242px
   */
-  --server-listing-width: 62px;
+  --server-listing-width: 126px;
 
   /*
     Font Size
   */
-  --font-size: 100%;
+  --font-size: 80%;
 
   /*
     Mention colors
