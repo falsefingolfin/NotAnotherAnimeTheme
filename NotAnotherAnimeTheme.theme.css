@@ -72,7 +72,7 @@
   /*
     Server category hover color
   */
-  --category-hover-color: rgb(20, 225, 255);
+  --category-hover-color: var(--main-theme-color);
 
   /*
     Change the unread server animation.
@@ -149,7 +149,7 @@
   /*
     Scrollbar Colors
   */
-  --scrollbar-color: rgba(20, 225, 255, 0.4);
+  --scrollbar-color: var(--main-theme-color);
 
   /*
     Unread Message Divider
@@ -182,10 +182,10 @@
   /*
     Channel colors
   */
-  --text-voice-channel-color: rgb(142, 146, 151);
+  --text-voice-channel-color: #dcddde;
   --text-voice-channel-hover-color: #fff;
-  --text-voice-channel-selected-text-color: rgb(20, 225, 255);
-  --unread-text-channel-color: rgb(142, 146, 151);
+  --text-voice-channel-selected-text-color: var(--main-theme-color);
+  --unread-text-channel-color: #dcddde;
   --unread-text-channel-bubble-color: var(--main-theme-color);
 
   /*
