@@ -21,7 +21,7 @@
   /*
     Theme Background
   */
-  --theme-background-image: url(https://i.imgur.com/OYZmyK9.jpg);
+  --theme-background-image: url();
 
   /*
     Main Theme Color
@@ -55,7 +55,7 @@
     Triple Column:  184px
     Quad Column:    242px
   */
-  --server-listing-width: 82px;
+  --server-listing-width: 72px;
 
   /*
     Font Size
