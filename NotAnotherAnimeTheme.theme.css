@@ -149,7 +149,7 @@
   /*
     Scrollbar Colors
   */
-  --scrollbar-color: var(--main-theme-color);
+  --scrollbar-color: rgba(20, 225, 255, 0.5);
 
   /*
     Unread Message Divider
