@@ -26,7 +26,7 @@
 
 /*EDIT THIS TO CHANGE THE BACKGROUND, I RECOMMEND USING IMGUR TO HOST YOUR IMAGE*/
 [class~=app] {
-    background: url(https://i.imgur.com/xMwczSz.png) !important;
+    background: url() !important;
     background-size: cover !important;
 }
 
@@ -34,7 +34,7 @@
 
 /*EDIT THIS TO CHANGE THE FRIENDS ICON IMAGE, I WOULD RECOMMEND USING IMGUR TO HOST YOUR IMAGE*/
 [class~=guilds-wrapper] [class~=guilds] [class~=friends-icon] {
-    background-image: url(https://i.imgur.com/WxDaETH.png)
+    background-image: url(https://i.imgur.com/978op8U.gif)
 }
 
 
