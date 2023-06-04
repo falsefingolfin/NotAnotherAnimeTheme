@@ -182,10 +182,10 @@
   /*
     Channel colors
   */
-  --text-voice-channel-color: rgb(142, 146, 151);
-  --text-voice-channel-hover-color: #dcddde;
-  --text-voice-channel-selected-text-color: #fff;
-  --unread-text-channel-color: #fff;
+  --text-voice-channel-color: rgba(0, 0, 0, 0.4);
+  --text-voice-channel-hover-color: #fff;
+  --text-voice-channel-selected-text-color: rgb(20, 225, 255);
+  --unread-text-channel-color: #dcddde;
   --unread-text-channel-bubble-color: var(--main-theme-color);
 
   /*
